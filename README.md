@@ -6,4 +6,4 @@
 * HTML5 Genetic Algorithm 2D Car Thingy ([Webpage](https://rednuht.org/genetic_cars_2/))
 * Flappy Bird AI ([Webpage](https://flappybird-ai.netlify.app))
 * Choosing Representation, Mutation, and Crossover in Genetic Algorithms ([IEEE Xplore](https://ieeexplore.ieee.org/document/9942691))
-* 
+* Examples of Real-World Applications (In Japanese) ([Webpage](https://sites.google.com/view/evocomp/))
